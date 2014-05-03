@@ -1,0 +1,11 @@
+numberOfNeurons: 100
+pRandLow: .01
+pRandHigh: .02
+delayRandLow: 5
+delayRandHigh: 5
+randomFrequency: 20
+tUpdate: .001
+simulationTime: 50
+maxOrderOfInteraction: 2
+percentageConnections: 0.0
+spikeDistribution: poisson
