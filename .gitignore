@@ -21,3 +21,6 @@
 *.app
 bin/
 obj/
+episodeFile.txt
+inputfile.txt
+stimulusFile.txt
